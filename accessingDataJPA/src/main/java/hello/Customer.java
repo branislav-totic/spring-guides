@@ -14,8 +14,7 @@ public class Customer {
     private String fName;
     private String lName;
 
-    public Customer() {
-    }
+    protected Customer() {}
 
     public Customer(String fName, String lName) {
         this.fName = fName;
@@ -24,6 +23,7 @@ public class Customer {
 
     @Override
     public String toString() {
-        return String.format("Customer[id=%d, fName='%s', lName='%s']", id,fName,lName);
+        return String.format("Customer[id=%d, firstName='%s', lastName='%s']", id, fName, lName);
     }
+
 }

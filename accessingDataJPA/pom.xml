@@ -54,6 +54,7 @@
         <name>JBoss Maven Release Repository</name>
         <url>https://repository.jboss.org/nexus/content/repositories/releases</url>
     </repository>
+    </repositories>
 
     <pluginRepositories>
         <pluginRepository>
@@ -62,4 +63,5 @@
             <url>https://repo.spring.io/libs-release</url>
         </pluginRepository>
     </pluginRepositories>
+
 </project>
