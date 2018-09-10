@@ -11,6 +11,7 @@
 
     <modules>
         <module>servingWebContent</module>
+        <module>validating-Form-Input</module>
     </modules>
 
     <build>
