@@ -12,6 +12,7 @@
     <modules>
         <module>servingWebContent</module>
         <module>validatingFormInput</module>
+        <module>accessingDataJPA</module>
     </modules>
 
     <build>
