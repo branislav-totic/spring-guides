@@ -1,4 +1,4 @@
-package hello;
+package com.btotic.validating_form_input;
 
 import javax.validation.constraints.Min;
 import javax.validation.constraints.NotNull;
