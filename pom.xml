@@ -13,6 +13,7 @@
         <module>serving-web-content</module>
         <module>validating-form-input</module>
         <module>accessing-data-jpa</module>
+        <module>managing-transactions</module>
     </modules>
 
     <build>
