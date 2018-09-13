@@ -1,4 +1,4 @@
-package com.btotic.accessing_data_jpa;
+package com.btotic.sg.accessingdatajpa;
 
 import org.springframework.data.repository.CrudRepository;
 

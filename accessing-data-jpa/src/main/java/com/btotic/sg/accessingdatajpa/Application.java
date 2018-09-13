@@ -1,4 +1,4 @@
-package com.btotic.accessing_data_jpa;
+package com.btotic.sg.accessingdatajpa;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

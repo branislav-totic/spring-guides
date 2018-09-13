@@ -1,4 +1,4 @@
-package com.btotic.validating_form_input;
+package com.btotic.sg.validatingforminput;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.validation.BindingResult;

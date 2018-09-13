@@ -1,4 +1,4 @@
-package com.btotic.serving_web_content;
+package com.btotic.sg.servingwebcontent;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;

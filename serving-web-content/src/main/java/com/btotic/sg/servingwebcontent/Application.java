@@ -1,4 +1,4 @@
-package com.btotic.validating_form_input;
+package com.btotic.sg.servingwebcontent;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
@@ -6,7 +6,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class Application {
 
-    public static void main(String[] args) throws Exception {
+    public static void main(String[] args){
         SpringApplication.run(Application.class, args);
     }
 
