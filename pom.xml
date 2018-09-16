@@ -20,6 +20,7 @@
         <module>validating-form-input</module>
         <module>accessing-data-jpa</module>
         <module>managing-transactions</module>
+        <module>restful-web-service</module>
     </modules>
     
     <properties>
