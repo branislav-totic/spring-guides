@@ -22,6 +22,7 @@
         <module>managing-transactions</module>
         <module>restful-web-service</module>
         <module>accessing-data-jpa-rest</module>
+        <module>uploading-files</module>
     </modules>
     
     <properties>
