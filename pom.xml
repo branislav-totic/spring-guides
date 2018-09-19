@@ -23,6 +23,7 @@
         <module>restful-web-service</module>
         <module>accessing-data-jpa-rest</module>
         <module>uploading-files</module>
+        <module>securing-web-app</module>
     </modules>
     
     <properties>
